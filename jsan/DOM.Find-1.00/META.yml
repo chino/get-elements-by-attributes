@@ -1,0 +1,11 @@
+---
+name: DOM.Find
+version: 1.00
+author:
+  - Aquino Daniel <mr.danielaquino@gmail.com>
+abstract: ~
+license: perl
+resources:
+  license: http://dev.perl.org/licenses/
+requires:
+  JSAN: 0
